@@ -11,7 +11,8 @@
     "url": "https://github.com/feross/yt-player/issues"
   },
   "dependencies": {
-    "load-script2": "^2.0.1"
+    "load-script2": "^2.0.1",
+    "events": "^3.3.0"
   },
   "devDependencies": {
     "standard": "*"
